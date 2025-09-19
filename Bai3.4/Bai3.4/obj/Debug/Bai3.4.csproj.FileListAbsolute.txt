@@ -1,0 +1,10 @@
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\obj\Debug\Bai3.4.csproj.AssemblyReference.cache
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\obj\Debug\Bai3._4.Form1.resources
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\obj\Debug\Bai3._4.Properties.Resources.resources
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\obj\Debug\Bai3.4.csproj.GenerateResource.cache
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\obj\Debug\Bai3.4.csproj.CoreCompileInputs.cache
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\bin\Debug\Bai3.4.exe.config
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\bin\Debug\Bai3.4.exe
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\bin\Debug\Bai3.4.pdb
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\obj\Debug\Bai3.4.exe
+D:\Luyen_code\.net\DTH235723-NguyenThiHuynhNhu.NET\Bai3.4\Bai3.4\obj\Debug\Bai3.4.pdb
